@@ -12,7 +12,8 @@ Senior Data Scientist and Industrial Engineer. I build predictive models, simula
 - Methods: regression and classification modeling, forecasting, discrete-event simulation (SimPy), experimentation, model validation
 - Platforms: Azure, Snowflake, Databricks
 
-**Featured project**
+**Featured projects**
+- [Relief Radar: CFPB Complaint Outcomes x SEC Disclosure](https://github.com/jkerlin86/relief-radar) — Point-in-time modelling of monetary-relief outcomes on 19M consumer complaints, with a narrative-selection audit: only 23% of complaints carry a narrative, and they end in relief at 2.58% versus 0.73% for the rest. Includes a paired text-embedding arm and a leakage audit. The SEC EDGAR alignment component is documented in the repository and lands as a later update.
 - [Shipping a Sensor Classifier That Drifts](https://github.com/jkerlin86/sensor-drift-production-ml) — Production ML under dataset drift. A gas sensor classifier that scores 99.5% under random-split validation holds only 49% under honest batch-forward evaluation; the project quantifies that gap, monitors drift, and compares retraining policies on cost. Packaged FastAPI service, tests, CI, and Docker.
 
 **What I am building here**
