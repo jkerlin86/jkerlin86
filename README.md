@@ -12,5 +12,8 @@ Senior Data Scientist and Industrial Engineer. I build predictive models, simula
 - Methods: regression and classification modeling, forecasting, discrete-event simulation (SimPy), experimentation, model validation
 - Platforms: Azure, Snowflake, Databricks
 
+**Featured project**
+- [Shipping a Sensor Classifier That Drifts](https://github.com/jkerlin86/sensor-drift-production-ml) — Production ML under dataset drift. A gas sensor classifier that scores 99.5% under random-split validation holds only 49% under honest batch-forward evaluation; the project quantifies that gap, monitors drift, and compares retraining policies on cost. Packaged FastAPI service, tests, CI, and Docker.
+
 **What I am building here**
 A portfolio of self-contained projects in modeling, simulation, and analytics, developed on public or synthetic data. This profile will grow project by project.
